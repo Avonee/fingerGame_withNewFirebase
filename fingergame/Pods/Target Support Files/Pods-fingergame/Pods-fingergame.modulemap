@@ -1,0 +1,6 @@
+framework module Pods_fingergame {
+  umbrella header "Pods-fingergame-umbrella.h"
+
+  export *
+  module * { export * }
+}
